@@ -42,7 +42,7 @@ public class Czlowiek {
     @Override
     public String toString() {
         return "Czlowiek{" +
-                "imie='" + imie + '\'' +
+                "imie ='" + imie + '\'' +
                 ", nazwisko='" + nazwisko + '\'' +
                 ", wiek=" + wiek +
                 ", miejscUr='" + miejscUr + '\'' +
